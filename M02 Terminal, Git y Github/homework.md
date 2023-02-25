@@ -94,6 +94,7 @@ Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comand
 
 ---
 
+
 </br >
 
 ### **📍 EJERCICIO 05**
