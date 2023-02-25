@@ -84,11 +84,11 @@ function colors(color) {
    }
 }
 
-function esDiezOCinco(num) {
+function esDiezOCinco(numero) {
    // Retornar true si "num" es 10 o 5.
    // De lo contrario, retornar false.
    // Tu código:
-   if (num === 10 || num === 5) {
+   if (numero === 10 || numero === 5) {
       return true;
    } else {
       return false;
