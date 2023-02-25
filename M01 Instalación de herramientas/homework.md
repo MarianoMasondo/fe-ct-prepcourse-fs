@@ -26,6 +26,7 @@ Recuerda que si tu sistema operativo en **Linux** ya tienes GIT instalado por de
 
 ---
 
+
 </br >
 
 ### **📍 SLACK**
@@ -35,6 +36,7 @@ No es obligatorio que descargues este aplicación en tu computadora, pero te ser
 [**LINK DE DESACRGA**](https://slack.com/intl/es-ar/downloads/windows)
 
 ---
+
 
 </br >
 
